@@ -1,0 +1,6 @@
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/repository/FraudCheckHistoryRepository.java
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/FraudApplication.java
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/entity/FraudCheckHistory.java
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/record/FraudCheckResponse.java
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/service/FraudCheckHistoryService.java
+/home/diogo/Projects/Spring/microservice/fraud/src/main/java/com/fraud/controller/FraudCheckHistoryController.java

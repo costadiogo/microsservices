@@ -1,6 +1,8 @@
+/home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/config/Config.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/repository/CustomerRepository.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/controller/CustomerController.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/entity/Customer.java
+/home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/record/FraudCheckResponse.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/record/CustomerRegistrationRequest.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/service/CustomerService.java
 /home/diogo/Projects/Spring/microservice/customer/src/main/java/com/customer/CustomerApplication.java
